@@ -1,0 +1,41 @@
+#instruction{
+    width: 900px;
+    background: lightcoral;
+    text-align: center; 
+    padding: 20px;
+    margin: 30px 30px 10px 30px;
+    
+}
+
+#header{
+    margin: 30px 0px 0px 150px;
+}
+
+#vals {
+    float: left;
+    text-align: center; 
+    background: lightskyblue;
+    padding: 50px;
+    margin-left: 30px;
+
+}
+
+body{
+    background: url("");
+    padding-bottom: 300px;
+ 
+}
+
+.butts{
+    padding: 0px 0px 0px 0px;
+    height: 100px;
+    width: 100px;
+    float: right;
+
+    
+}
+
+#total{
+        padding: 15px;
+        background: palevioletred;
+}
